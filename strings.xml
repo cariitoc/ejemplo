@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CucunameEjercicioClase</string>
+
+    <string name="btn_title_main">Ir al formulario </string>
+
+    <string name="tv_status_main">No completado </string>
+
+    <string name="hint_userform_name">¿Como te llamas? </string>
+    <string name="hint_userform_email">extracoo@hotmail.com </string>
+    <string name="hint_userform_username">cariitoc98 </string>
+
+    <string name="btn_title_userform_finish">COMPLETAR </string>
+
+
+</resources>
